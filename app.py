@@ -34,56 +34,56 @@ def insert_sample_products():
   {
     "title": "Lápices HB (paquete de 12)",
     "description": "Lápices de grafito con borrador",
-    "price": 30.00,
+    "price": $30.00,
     "rating": 4.4,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/pack%20lapiz.jpg"
   },
   {
     "title": "Marcatextos fluorescentes",
     "description": "Set de 6 colores neón",
-    "price": 65.00,
+    "price": $65.00,
     "rating": 4.6,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/marcatextos.jpg"
   },
   {
     "title": "Regla plástica 30 cm",
     "description": "Regla transparente de plástico",
-    "price": 10.00,
+    "price": $10.00,
     "rating": 4.2,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/regla.jpg"
   },
   {
     "title": "Borrador blanco",
     "description": "Borrador suave para lápiz",
-    "price": 5.00,
+    "price": $5.00,
     "rating": 4.5,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/borrador.jpg"
   },
   {
     "title": "Tijeras escolares",
     "description": "Tijeras de punta redonda para niños",
-    "price": 15.00,
+    "price": $15.00,
     "rating": 4.1,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/tijeras.jpg"
   },
   {
     "title": "Pegamento en barra",
     "description": "Pegamento no tóxico, fácil de usar",
-    "price": 18.50,
+    "price": $18.50,
     "rating": 4.3,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/pegamento.jpg"
   },
   {
     "title": "Cartulina blanca",
     "description": "Cartulina tamaño carta (paquete de 10)",
-    "price": 22.00,
+    "price": $22.00,
     "rating": 4.6,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/cartulina.jpg"
   },
   {
     "title": "Notas adhesivas",
     "description": "Notas amarillas (paquete de 3 bloques)",
-    "price": 12.00,
+    "price": $12.00,
     "rating": 4.4,
     "thumbnail": "https://raw.githubusercontent.com/Angel-Perez-1086/imagenes_github/main/notas.jpg"
   }
